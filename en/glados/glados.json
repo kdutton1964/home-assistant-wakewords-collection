@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "GlaDOS",
+  "wake_word": "glados",
   "author": "Keith Dutton",
-  "website": "https://www.kevinahrendt.com/",
-  "model": "./GlaDos.tflite",
+  "website": "https://www.vreel.org/",
+  "model": "./glados.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.5,
